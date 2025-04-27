@@ -475,4 +475,5 @@ sources/0 = SubResource("TileSetAtlasSource_kpenc")
 
 [node name="Grass-01" type="TileMapLayer"]
 z_index = -1
+position = Vector2(3, -1)
 tile_set = SubResource("TileSet_vy4p5")
