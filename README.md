@@ -1,0 +1,2 @@
+- Camera panning isn't working as expected from chapter 8. Need to figure this out.
+- What does `var direction_id: int = int(round(((direction + cardinal_direction * 0.1).angle()/ TAU * DIR_4.size())))` do? Need to dig in to it a little more.
